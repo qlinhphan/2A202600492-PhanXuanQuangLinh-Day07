@@ -109,10 +109,10 @@ Chạy `ChunkingStrategyComparator().compare()` trên 2-3 tài liệu:
 
 | Thành viên | Strategy | Retrieval Score (/10) | Điểm mạnh | Điểm yếu |
 |-----------|----------|----------------------|-----------|----------|
-| Tiến (Tôi) | Recursive | 8 | Giữ cấu trúc tốt | Cần tinh chỉnh dấu phân cách |
+| Tiến | Recursive | 8 | Giữ cấu trúc tốt | Cần tinh chỉnh dấu phân cách |
 | Thành | Sentence | 7 | Tách câu tự nhiên | Bỏ sót context giữa các đoạn |
 | Chinh | FixedSize | 5 | Đơn giản, nhanh | Hay bị cắt ngang thông tin |
-| Linh | Recursive | 8 | Hiệu quả với tài liệu dài | Phức tạp trong cài đặt |
+| Linh (Tôi)| Recursive | 8 | Hiệu quả với tài liệu dài | Phức tạp trong cài đặt |
 | Ngân | Sentence | 7 | Chính xác về ngữ pháp | Chunk size không đều |
 | Khôi | FixedSize | 4 | Dễ debug | Kém linh hoạt |
 
