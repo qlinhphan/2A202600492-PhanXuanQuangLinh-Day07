@@ -1,0 +1,92 @@
+{
+  "01_benh_mach_vanh.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "bệnh mạch vành",
+    "subtopics": ["xơ vữa động mạch", "đau thắt ngực", "nhồi máu cơ tim", "stent", "bắc cầu mạch vành"],
+    "difficulty": "general"
+  },
+  "02_tang_huyet_ap.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "tăng huyết áp",
+    "subtopics": ["huyết áp cao", "thuốc hạ áp", "chế độ ăn DASH", "biến chứng huyết áp"],
+    "difficulty": "general"
+  },
+  "03_suy_tim.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "suy tim",
+    "subtopics": ["phân suất tống máu", "EF", "NYHA", "thuốc suy tim", "máy ICD"],
+    "difficulty": "advanced"
+  },
+  "04_roi_loan_nhip_tim.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "rối loạn nhịp tim",
+    "subtopics": ["rung nhĩ", "nhịp tim nhanh", "nhịp tim chậm", "máy tạo nhịp", "ablation"],
+    "difficulty": "advanced"
+  },
+  "05_ho_van_tim.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "hở van tim",
+    "subtopics": ["van hai lá", "van động mạch chủ", "phẫu thuật van tim", "mức độ hở van"],
+    "difficulty": "general"
+  },
+  "06_nhoi_mau_co_tim.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "nhồi máu cơ tim",
+    "subtopics": ["STEMI", "NSTEMI", "can thiệp PCI", "troponin", "cấp cứu tim mạch"],
+    "difficulty": "advanced"
+  },
+  "07_xo_vua_dong_mach.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "xơ vữa động mạch",
+    "subtopics": ["cholesterol", "LDL", "statin", "mảng bám", "phòng ngừa"],
+    "difficulty": "general"
+  },
+  "08_dinh_duong_tim_mach.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "dinh dưỡng tim mạch",
+    "subtopics": ["chế độ ăn DASH", "omega-3", "muối natri", "chất béo bão hòa", "thực đơn tim mạch"],
+    "difficulty": "general"
+  },
+  "09_the_duc_tim_mach.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "tập thể dục tim mạch",
+    "subtopics": ["aerobic", "nhịp tim mục tiêu", "phục hồi chức năng", "cardiac rehabilitation", "bài tập an toàn"],
+    "difficulty": "general"
+  },
+  "10_tam_soat_tim_mach.txt": {
+    "source": "vinmec.com",
+    "category": "tim-mach",
+    "language": "vi",
+    "date": "2024",
+    "topic": "tầm soát tim mạch",
+    "subtopics": ["xét nghiệm máu", "điện tâm đồ", "siêu âm tim", "ABI", "CAC score", "nguy cơ tim mạch"],
+    "difficulty": "general"
+  }
+}
